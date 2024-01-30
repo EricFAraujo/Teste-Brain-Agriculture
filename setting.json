@@ -1,0 +1,13 @@
+{
+    "database": {
+      "user": "seu_usuario",
+      "host": "seu_host",
+      "database": "seu_banco_de_dados",
+      "password": "sua_senha",
+      "port": 5432
+    },
+    "server": {
+      "port": 3001
+    }
+  }
+  
